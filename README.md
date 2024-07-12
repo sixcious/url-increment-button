@@ -12,7 +12,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/roysix/url-increment-button/master/assets/urli.svg?sanitize=true" width="256" height="256" align="left" title="URLI">
 
-## About
+### About
 This is a 1-Click Button extension that works with or without the URL Incrementer extension. If you have URL Incrementer installed, you'll be able to select the part of the URL to increment or decrement and all other options. If you don't have URL Incrementer installed, the button will simply try to increment or decrement the most likely number in the URL (usually the last number).
 <br><br><br><br><br>
 
