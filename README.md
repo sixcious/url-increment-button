@@ -21,6 +21,21 @@ URL Increment Button is a simple 1-Click Button that can increment a URL for you
 - Requires no permissions
 - Uses no background memory when not in use
 
+## Documentation
+- [Help Guide](https://github.com/sixcious/url-increment-button/wiki)
+- [Version History](https://github.com/sixcious/elempick/url-increment-button/Version-History)
+
+## FAQ
+
+#### What is the minimum browser version (and why is it to so high)?
+URL Increment Button currently requires Chrome/Edge `120` and Firefox `128` and higher to run. I usually update the minimum browser version every time I do a release so I can use the latest and greatest ECMAScript features without worry. If your browser doesn't support ElemPick, I'm afraid you'll have to use another app/extension (sorry!).
+
+#### Where's the source code?
+I've decided to make URL Increment Button proprietary, as it is only intended to be a standalone app or used with URL Incrementer. I may change this in the future, though (I thank you for your understanding).
+
+#### Why is the production version's source code minified?
+I use [Terser](https://github.com/terser/terser) to minify the source code for production releases that I upload to your browser's web store. I mainly do this because I write a lot of comments and `console.log()` statements for debugging and because it cuts down the file size significantly. That said, you can always view a "Pretty Print" of the source code by using a [CRX Viewer](https://robwu.nl/crxviewer/) to inspect it before installing it.
+
 ## Permissions Justification
 No permissions are needed.
 
