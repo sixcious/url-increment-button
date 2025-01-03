@@ -23,7 +23,7 @@ URL Increment Button is a simple 1-Click Button that can increment a URL for you
 
 ## Documentation
 - [Help Guide](https://github.com/sixcious/url-increment-button/wiki)
-- [Version History](https://github.com/sixcious/elempick/url-increment-button/Version-History)
+- [Version History](https://github.com/sixcious/url-increment-button/wiki/Version-History)
 
 ## FAQ
 
