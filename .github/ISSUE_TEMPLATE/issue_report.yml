@@ -57,3 +57,13 @@ body:
       - Other
   validations:
     required: true
+- type: checkboxes
+  id: adherence
+  attributes:
+    label: Adherence
+    description: Please confirm that you've read the [Sticky](https://github.com/sixcious/url-increment-button/issues/1) before posting your issue or question.
+    options:
+      - label: I have read the [Sticky](https://github.com/sixcious/url-increment-button/issues/1)
+        required: true
+  validations:
+    required: true
